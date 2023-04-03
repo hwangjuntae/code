@@ -1,0 +1,3 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/3d_data_processing/opencv/sources/3rdparty/carotene"
+}
